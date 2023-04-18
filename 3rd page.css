@@ -1,0 +1,259 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+
+.takeatourbg-container {
+    background-color: black;
+    background-size: cover;
+
+}
+
+.takeatourwhite-container {
+    background-color: #FFFFFF;
+    border-radius: 35px;
+    padding-left: 45px;
+    padding-top: 15px;
+    margin: 8px;
+    width: 95%;
+}
+
+.image {
+    text-align: center;
+    margin: auto;
+    display: block;
+    width: 42%;
+    margin: auto;
+    display: block;
+}
+
+.takeatour-heading {
+    text-align: center;
+}
+
+.takeatour-paragraph {
+    text-align: center;
+}
+
+.button {
+    height: 36px;
+    width: 138px;
+    background-color: #B2beb5;
+    color: #ffffff;
+    font-size: 15px;
+    border-radius: 20px;
+    border-width: 1px;
+    margin-top: 16px;
+    margin-bottom: 16px;
+    font-weight: bold;
+}
+
+.center-buttons {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.bg-container {
+    background-color: black;
+    background-size: cover;
+
+}
+
+.operating-system-container {
+    background-color: #FFFFFF;
+    border-radius: 35px;
+    padding-left: 45px;
+    padding-top: 15px;
+    margin: 8px;
+    width: 95%;
+}
+
+.button-1 {
+    width: 30px;
+    height: 30px;
+    border-radius: 15px;
+    background-color: orange;
+    border-width: 0px;
+    color: #ffffff;
+}
+
+.button-2 {
+    width: 30px;
+    height: 30px;
+    border-radius: 15px;
+    background-color: gray;
+    border-width: 0px;
+    color: black;
+}
+
+.headingfor2 {
+    text-align: center;
+    font-weight: 500;
+    font-size: 35px;
+    margin-bottom: 15px;
+    margin-top: 10px;
+}
+
+.logo-container {
+
+    padding: 16px;
+    text-align: center;
+    margin: 15px;
+    width: 140px;
+    border-radius: 9px;
+}
+
+.logo-containers {
+    padding: 16px;
+    text-align: center;
+    margin: 15px;
+    width: 140px;
+    border-radius: 9px;
+}
+
+.windows-logo {
+    color: #f44336;
+    font-size: 70px;
+}
+
+.logo-name {
+    font-size: 12px;
+    margin-top: 5px;
+}
+
+.logo {
+    font-size: 70px;
+}
+
+.buttonfor2 {
+    height: 36px;
+    width: 138px;
+    background-color: #f44336;
+    color: #ffffff;
+    font-size: 15px;
+    border-radius: 20px;
+    border-width: 1px;
+    margin-top: 16px;
+    border-width: 0px;
+    margin-bottom: 16px;
+}
+
+.linefor2 {
+    border-width: 1px;
+    width: 100%;
+}
+
+.endfor2 {
+    text-align: right;
+    padding-right: 60px;
+    font-size: 16px;
+    font-weight: 800;
+    font-family: "Roboto";
+}
+
+.button {
+    height: 36px;
+    width: 138px;
+    background-color: Red;
+    color: #ffffff;
+    font-size: 15px;
+    border-radius: 20px;
+    border-width: 1px;
+    margin-top: 16px;
+    margin-bottom: 16px;
+    font-weight: bold;
+}
+
+
+
+.container {
+    display: flex;
+    justify-content: center;
+    background-color: white;
+    padding: 10px;
+    /* add padding to create space between the containers */
+    margin-top: 0px;
+}
+
+.box {
+    width: 230px;
+    height: 310px;
+    background-color: #ccc;
+    /* set background color of boxes to white */
+    margin-right: 10px;
+    /* add margin to create space between the boxes */
+}
+
+.box:last-child {
+    margin-right: 0;
+    /* remove right margin from last box to avoid spacing issues */
+}
+
+.heading {
+    text-align: center;
+}
+
+.strike {
+    text-align: center;
+}
+
+a {
+    color: yellow;
+}
+
+.real-money {
+    font-weight: bold;
+}
+
+.button-one {
+    width: 30px;
+    height: 30px;
+    border-radius: 15px;
+    background-color: orange;
+    border-width: 0px;
+    color: #ffffff;
+}
+
+.button-two {
+    width: 30px;
+    height: 30px;
+    border-radius: 15px;
+    background-color: gray;
+    border-width: 0px;
+    color: black;
+}
+
+.button {
+    height: 36px;
+    text-align: center;
+    width: 78px;
+    background-color: #f44336;
+    color: #ffffff;
+    font-size: 15px;
+    border-radius: 20px;
+    border-width: 1px;
+    margin-top: 0px;
+    border-width: 0px;
+    margin-bottom: 16px;
+}
+
+.line {
+    border-width: 1px;
+    width: 100%;
+}
+
+.end {
+    text-align: right;
+    padding-right: 60px;
+    font-size: 16px;
+    font-weight: 800;
+    font-family: "Roboto";
+}
+
+.border-container {
+    border-radius: 10px;
+    border: 1px solid #ccc;
+    padding: 10px;
+}
